@@ -3,11 +3,11 @@ This project focuses on building and analyzing a relational database for a books
 
 <ins>**The project begins by creating a normalized database with three interconnected tables:**</ins>
 
-1)Books: Stores detailed information about each book, such as its title, author, genre, price, publication year, and available stock.
+<ins>1)Books:</ins> Stores detailed information about each book, such as its title, author, genre, price, publication year, and available stock.
 
-2)Customers: Holds customer profiles including name, location, and contact information.
+<ins>2)Customers:</ins> Holds customer profiles including name, location, and contact information.
 
-3)Orders: Records transaction data, linking customers and books, along with order dates, quantities, and total amounts spent.
+<ins>3)Orders:</ins> Records transaction data, linking customers and books, along with order dates, quantities, and total amounts spent.
 
 <ins>**Insights Extracted**</ins>
 

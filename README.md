@@ -1,5 +1,5 @@
 # SQL-Books-Analysis
-***This project focuses on building and analyzing a relational database for a  bookstore. The primary objective is to simulate a real-world retail environment and perform data analysis using structured query language (SQL). It demonstrates how data-driven insights can be extracted from raw transactional data to support business decision-making.The goal was to simulate a real-world retail environment where books are sold to customers through orders.***
+**This project focuses on building and analyzing a relational database for a  bookstore. The primary objective is to simulate a real-world retail environment and perform data analysis using structured query language (SQL). It demonstrates how data-driven insights can be extracted from raw transactional data to support business decision-making.The goal was to simulate a real-world retail environment where books are sold to customers through orders.**
 
 The project begins by creating a normalized database with three interconnected tables:
 
